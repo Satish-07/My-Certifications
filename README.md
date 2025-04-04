@@ -1,2 +1,2 @@
 # My-Certifications
-This Repository complies my Certifications. I've successfully undertaken with some comprehensive solutions.
+This repository showcases my journey in each certification, captures a different facet of my analytical toolkit from Google - AI-driven business transformation to strategy formulation, process optimization
